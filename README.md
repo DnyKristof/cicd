@@ -14,4 +14,6 @@ A projekt egy egyszerű C nyelvű kalkulátort tartalmaz, amelyet CI/CD folyamat
 - Szorzás (*)
 - Osztás (/)
 
+Latest release(https://github.com/DnyKristof/cicd/releases/tag/latest)
 
+[![Actions Status](https://github.com/DnyKristof/cicd/workflows/Test,%20build%20and%20release/badge.svg)](https://github.com/DnyKristof/cicd/actions)
